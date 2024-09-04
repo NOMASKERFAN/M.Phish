@@ -18,3 +18,24 @@ python
 به شما یک لینک خواهد داد و ان را برای فرد مورد نظر ارسال کنید تا اطلاعات ان را دریافت کنید مثل یوزر و پسورد یا ایپی...
 
 
+
+
+
+
+
+
+
+
+
+To run this tool you need to install:
+
+ngrok
+
+php
+
+Python
+
+This tool is for sending the desired person, you must open the client js file and put your telegram bot token and information where it is said, save it and run it.
+
+It will give you a link and send it to the desired person to receive information such as username and password or IP.
+
