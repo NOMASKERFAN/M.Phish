@@ -27,11 +27,11 @@ python
 
 To run this tool you need to install:
 
-*ngrok
+ngrok
 
-*php
+php
 
-*Python
+Python
 
 This tool is for sending the desired person, you must open the client js file and put your telegram bot token and information where it is said, save it and run it.
 
